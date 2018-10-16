@@ -1,3 +1,15 @@
 .App {
-  text-align: center;
+}
+ul {
+	list-style: none;
+	padding-right: 40px;
+}
+li {
+	clear: both;
+}
+.product-name {
+  float: left;
+}
+.product-price {
+	float: right;
 }
